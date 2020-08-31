@@ -1,14 +1,36 @@
 #socials {
-    color: grey;
+    color: #a483cc;
     margin-left: 1em;
 }
 
-.item {
+#socials:hover {
+    color: gold;
+}
+
+.ui.menu {
+    background-color: #7030A0;
+}
+
+.ui.menu .item {
+    color: #a483cc;
+}
+
+.ui.menu .item.active {
+    background-color: #a483cc;
+    color: gold;
+}
+
+.ui.menu .item.active:hover {
+    background-color: #a483cc;
+    color: white;
+}
+
+.ui.menu a.item:hover {
+    background-color: #7030A0;
     color: gold;
 }
 
 nav {
-    background-color: purple;
-    color: purple;
     margin-bottom: 3em;
+    color: #a483cc;
 }

@@ -4,7 +4,7 @@ const MemberCard = (props) => {
     return (
         <div className="ui card"> 
             <div className="image">
-                <img src={ props.image } alt="user image"/> 
+                <img src={ props.image } alt=" " /> 
             </div>
             <div className="content">
                 { props.name }
