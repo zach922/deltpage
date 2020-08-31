@@ -2,3 +2,13 @@
     color: grey;
     margin-left: 1em;
 }
+
+.item {
+    color: gold;
+}
+
+nav {
+    background-color: purple;
+    color: purple;
+    margin-bottom: 3em;
+}
