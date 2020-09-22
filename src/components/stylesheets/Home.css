@@ -1,0 +1,17 @@
+@import url('Root.css');
+
+body {
+    background-color: #F2F2F2;
+}
+
+.ui.grid {
+    align-content: center;
+    justify-content: center;
+    display: flex;
+    
+}
+
+div.four.wide.column > h1 {
+    color: var(--primary-color);
+}
+

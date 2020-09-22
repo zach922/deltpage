@@ -1,0 +1,15 @@
+@import url('Root.css');
+
+.medium.ui.image {
+    margin: 2em;
+    transition: opacity .5s;
+}
+
+.medium.ui.image:hover {
+    opacity: .8;
+}
+
+.centered {
+    position: absolute;
+    bottom: 0px;
+}

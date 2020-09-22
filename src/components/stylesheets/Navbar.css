@@ -1,0 +1,37 @@
+@import url('Root.css');
+
+#socials {
+    color: var(--secondary-color);
+    margin-left: 1em;
+}
+
+#socials:hover {
+    color: var(--accent-color);
+}
+
+.ui.menu {
+    background-color: var(--primary-color);
+}
+
+.ui.menu .item {
+    color: var(--secondary-color);
+}
+
+.ui.menu .item.active {
+    background-color: var(--secondary-color);
+    color: var(--accent-color);
+}
+
+.ui.menu .item.active:hover {
+    background-color: var(--secondary-color);
+    color: white;
+}
+
+.ui.menu a.item:hover {
+    background-color: var(--primary-color);
+    color: var(--accent-color);
+}
+
+nav {
+    color: var(--secondary-color);
+}

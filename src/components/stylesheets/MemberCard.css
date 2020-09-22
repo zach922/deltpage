@@ -1,0 +1,14 @@
+@import url('Root.css');
+
+.ui.card > .content {
+    background-color: var(--primary-color);
+    color: var(--accent-color);
+}
+
+.ui.card > .extra {
+    background-color: var(--secondary-color);
+
+}
+
+
+

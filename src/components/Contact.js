@@ -1,5 +1,5 @@
 import React from 'react';
-import './Contact.css';
+import './stylesheets/Contact.css';
 
 const Contact = () => {
 
@@ -18,7 +18,7 @@ const Contact = () => {
                             <h2>Contact Us</h2>
                             <div class="required field">
                                 <label>E-mail</label>
-                                <input type="email" placeholder="joe@schmoe.com" />
+                                <input type="email" placeholder="test@example.com" />
                             </div>
                             <div class="required field">
                                 <label>Subject</label>
