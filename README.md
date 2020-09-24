@@ -1,3 +1,15 @@
+# This project
+
+This is a project I am making for my fraternity. The current website doesn't look very nice so I decided I was going to remake it using react. Once the webapp is done, I plan on porting it to cloud and supporting it on an EC2 instance using AWS. 
+
+- 8/31/20
+Started
+
+- 9/24/20:
+Pages are looking better, just need minor changes, correct images, and to finish philanthropy page.
+
+## Typical React README 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
