@@ -1,0 +1,19 @@
+@import url('Root.css');
+
+.Footer  {
+    margin-top: 2em;
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+}
+
+.ui.tiny.images {
+    width: 10%;
+}
+
+.eight.wide.column {
+    margin-top: .4rem;
+}
+
+.six.wide.column {
+    margin-top: 1.7rem;
+}

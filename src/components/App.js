@@ -5,6 +5,7 @@ import Home from './Home';
 import Philanthropy from './Philanthropy';
 import Roster from './Roster';
 import Contact from './Contact';
+import Footer from './Footer';
 
 class App extends React.Component {
   render() {
@@ -17,6 +18,7 @@ class App extends React.Component {
           <Route path='/roster' component={Roster} />
           <Route path='/contact' component={Contact} />
         </div>
+        <Footer />
       </BrowserRouter>
     )
   }
