@@ -1,0 +1,16 @@
+.ui.grid > .row {
+    padding-top: 2rem;
+}
+
+.ui.card {
+    margin-top: 0rem;
+    margin-bottom: 1rem;
+}
+
+.ui.card:last-child {
+    margin-bottom: 1rem;
+}
+
+.ui.card, .ui.cards > .card {
+    width: 16.66%;
+}

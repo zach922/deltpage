@@ -18,7 +18,7 @@ const Navbar = () => {
         <NavLink className="item" to="/contact">
           <strong>Contact</strong>
         </NavLink>
-        <div class="right menu">
+        <div className="right menu">
           <div className="item">
             <a href="https://www.facebook.com/ohioudelts"><i id="socials" className="facebook icon"/></a>
             <a href="https://twitter.com/OU_Delts"><i id="socials" className="twitter icon"/></a>

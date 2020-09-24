@@ -1,0 +1,87 @@
+{
+    "Members": [
+        {
+            "fname": "Leland",
+            "lname": "Sherl",
+            "class": "Alpha",
+            "major": "MIS & Business Analytics",
+            "picture": "https://static.wixstatic.com/media/158a7d_953486801f764006b990d557f7cf5d6e~mv2.jpg/v1/fill/w_119,h_154,al_c,q_80,usm_0.66_1.00_0.01/IMG_2724.webp"
+        },
+        {
+            "fname": "Ben",
+            "lname": "Gepperth",
+            "class": "Alpha",
+            "major": "MIS & Business Analytics",
+            "picture": "https://static.wixstatic.com/media/158a7d_658bd049ed484e9bae390e1be70829df~mv2.jpg/v1/fill/w_119,h_154,al_c,q_80,usm_0.66_1.00_0.01/IMG_2722.webp"
+        },
+        {
+            "fname": "Matthew",
+            "lname": "Thigpen",
+            "class": "Alpha",
+            "major": "Meteorology",
+            "picture": "https://static.wixstatic.com/media/158a7d_fbaacf8802324c32a00cf2c160fdba46~mv2.jpg/v1/fill/w_119,h_154,al_c,q_80,usm_0.66_1.00_0.01/IMG_2729.webp"
+        },
+        {
+            "fname": "Collin",
+            "lname": "Maior",
+            "class": "Alpha",
+            "major": "Finance",
+            "picture": "https://static.wixstatic.com/media/158a7d_2ea55764d050495b93c609ca1f293354~mv2.jpg/v1/fill/w_119,h_154,al_c,q_80,usm_0.66_1.00_0.01/IMG_2704.webp"
+        },
+        {
+            "fname": "Collin",
+            "lname": "Maior",
+            "class": "Alpha",
+            "major": "Finance",
+            "picture": "https://static.wixstatic.com/media/158a7d_2ea55764d050495b93c609ca1f293354~mv2.jpg/v1/fill/w_119,h_154,al_c,q_80,usm_0.66_1.00_0.01/IMG_2704.webp"
+        }, 
+               {
+            "fname": "Collin",
+            "lname": "Maior",
+            "class": "Alpha",
+            "major": "Finance",
+            "picture": "https://static.wixstatic.com/media/158a7d_2ea55764d050495b93c609ca1f293354~mv2.jpg/v1/fill/w_119,h_154,al_c,q_80,usm_0.66_1.00_0.01/IMG_2704.webp"
+        },{
+            "fname": "Leland",
+            "lname": "Sherl",
+            "class": "Alpha",
+            "major": "MIS & Business Analytics",
+            "picture": "https://static.wixstatic.com/media/158a7d_953486801f764006b990d557f7cf5d6e~mv2.jpg/v1/fill/w_119,h_154,al_c,q_80,usm_0.66_1.00_0.01/IMG_2724.webp"
+        },
+        {
+            "fname": "Ben",
+            "lname": "Gepperth",
+            "class": "Alpha",
+            "major": "MIS & Business Analytics",
+            "picture": "https://static.wixstatic.com/media/158a7d_658bd049ed484e9bae390e1be70829df~mv2.jpg/v1/fill/w_119,h_154,al_c,q_80,usm_0.66_1.00_0.01/IMG_2722.webp"
+        },
+        {
+            "fname": "Matthew",
+            "lname": "Thigpen",
+            "class": "Alpha",
+            "major": "Meteorology",
+            "picture": "https://static.wixstatic.com/media/158a7d_fbaacf8802324c32a00cf2c160fdba46~mv2.jpg/v1/fill/w_119,h_154,al_c,q_80,usm_0.66_1.00_0.01/IMG_2729.webp"
+        },
+        {
+            "fname": "Collin",
+            "lname": "Maior",
+            "class": "Alpha",
+            "major": "Finance",
+            "picture": "https://static.wixstatic.com/media/158a7d_2ea55764d050495b93c609ca1f293354~mv2.jpg/v1/fill/w_119,h_154,al_c,q_80,usm_0.66_1.00_0.01/IMG_2704.webp"
+        },
+        {
+            "fname": "Collin",
+            "lname": "Maior",
+            "class": "Alpha",
+            "major": "Finance",
+            "picture": "https://static.wixstatic.com/media/158a7d_2ea55764d050495b93c609ca1f293354~mv2.jpg/v1/fill/w_119,h_154,al_c,q_80,usm_0.66_1.00_0.01/IMG_2704.webp"
+        }, 
+               {
+            "fname": "Collin",
+            "lname": "Maior",
+            "class": "Alpha",
+            "major": "Finance",
+            "picture": "https://static.wixstatic.com/media/158a7d_2ea55764d050495b93c609ca1f293354~mv2.jpg/v1/fill/w_119,h_154,al_c,q_80,usm_0.66_1.00_0.01/IMG_2704.webp"
+        }
+    ]
+}
