@@ -22,65 +22,177 @@
             "picture": "https://static.wixstatic.com/media/158a7d_fbaacf8802324c32a00cf2c160fdba46~mv2.jpg/v1/fill/w_119,h_154,al_c,q_80,usm_0.66_1.00_0.01/IMG_2729.webp"
         },
         {
+            "fname": "Reilly",
+            "lname": "Kuskowski",
+            "class": "Alpha",
+            "major": "Excersize Science",
+            "picture": "https://static.wixstatic.com/media/158a7d_2ea55764d050495b93c609ca1f293354~mv2.jpg/v1/fill/w_119,h_154,al_c,q_80,usm_0.66_1.00_0.01/IMG_2704.webp"
+        },
+        {
             "fname": "Collin",
-            "lname": "Maior",
+            "lname": "Maier",
             "class": "Alpha",
             "major": "Finance",
             "picture": "https://static.wixstatic.com/media/158a7d_2ea55764d050495b93c609ca1f293354~mv2.jpg/v1/fill/w_119,h_154,al_c,q_80,usm_0.66_1.00_0.01/IMG_2704.webp"
         },
         {
-            "fname": "Collin",
-            "lname": "Maior",
+            "fname": "Chris",
+            "lname": "Hrytzik",
             "class": "Alpha",
-            "major": "Finance",
+            "major": "Political Science",
+            "picture": "https://static.wixstatic.com/media/158a7d_2ea55764d050495b93c609ca1f293354~mv2.jpg/v1/fill/w_119,h_154,al_c,q_80,usm_0.66_1.00_0.01/IMG_2704.webp"
+        },
+        {
+            "fname": "Corey",
+            "lname": "Best",
+            "class": "Beta",
+            "major": "Global Studies: War & Peace",
             "picture": "https://static.wixstatic.com/media/158a7d_2ea55764d050495b93c609ca1f293354~mv2.jpg/v1/fill/w_119,h_154,al_c,q_80,usm_0.66_1.00_0.01/IMG_2704.webp"
         }, 
                {
-            "fname": "Collin",
-            "lname": "Maior",
-            "class": "Alpha",
-            "major": "Finance",
+            "fname": "Christian",
+            "lname": "Thanasoulis",
+            "class": "Gamma",
+            "major": "Communications",
             "picture": "https://static.wixstatic.com/media/158a7d_2ea55764d050495b93c609ca1f293354~mv2.jpg/v1/fill/w_119,h_154,al_c,q_80,usm_0.66_1.00_0.01/IMG_2704.webp"
         },{
-            "fname": "Leland",
-            "lname": "Sherl",
-            "class": "Alpha",
-            "major": "MIS & Business Analytics",
+            "fname": "Anthony",
+            "lname": "Spaetzel",
+            "class": "Gamma",
+            "major": "Political Science",
             "picture": "https://static.wixstatic.com/media/158a7d_953486801f764006b990d557f7cf5d6e~mv2.jpg/v1/fill/w_119,h_154,al_c,q_80,usm_0.66_1.00_0.01/IMG_2724.webp"
         },
         {
-            "fname": "Ben",
-            "lname": "Gepperth",
-            "class": "Alpha",
+            "fname": "Mitch",
+            "lname": "Layman",
+            "class": "Delta",
             "major": "MIS & Business Analytics",
             "picture": "https://static.wixstatic.com/media/158a7d_658bd049ed484e9bae390e1be70829df~mv2.jpg/v1/fill/w_119,h_154,al_c,q_80,usm_0.66_1.00_0.01/IMG_2722.webp"
         },
         {
-            "fname": "Matthew",
-            "lname": "Thigpen",
-            "class": "Alpha",
-            "major": "Meteorology",
+            "fname": "Christian",
+            "lname": "Braun",
+            "class": "Delta",
+            "major": "Mechanical Engineering",
             "picture": "https://static.wixstatic.com/media/158a7d_fbaacf8802324c32a00cf2c160fdba46~mv2.jpg/v1/fill/w_119,h_154,al_c,q_80,usm_0.66_1.00_0.01/IMG_2729.webp"
         },
         {
-            "fname": "Collin",
-            "lname": "Maior",
-            "class": "Alpha",
+            "fname": "Randy",
+            "lname": "Swoope",
+            "class": "Delta",
             "major": "Finance",
             "picture": "https://static.wixstatic.com/media/158a7d_2ea55764d050495b93c609ca1f293354~mv2.jpg/v1/fill/w_119,h_154,al_c,q_80,usm_0.66_1.00_0.01/IMG_2704.webp"
         },
         {
-            "fname": "Collin",
-            "lname": "Maior",
-            "class": "Alpha",
+            "fname": "Michael",
+            "lname": "Chaney",
+            "class": "Delta",
             "major": "Finance",
             "picture": "https://static.wixstatic.com/media/158a7d_2ea55764d050495b93c609ca1f293354~mv2.jpg/v1/fill/w_119,h_154,al_c,q_80,usm_0.66_1.00_0.01/IMG_2704.webp"
         }, 
-               {
-            "fname": "Collin",
-            "lname": "Maior",
-            "class": "Alpha",
+        {
+            "fname": "Leo",
+            "lname": "Foulds",
+            "class": "Epsilon",
             "major": "Finance",
+            "picture": "https://static.wixstatic.com/media/158a7d_2ea55764d050495b93c609ca1f293354~mv2.jpg/v1/fill/w_119,h_154,al_c,q_80,usm_0.66_1.00_0.01/IMG_2704.webp"
+        },
+        {
+            "fname": "Porter",
+            "lname": "Milligan",
+            "class": "Epsilon",
+            "major": "Finance",
+            "picture": "https://static.wixstatic.com/media/158a7d_2ea55764d050495b93c609ca1f293354~mv2.jpg/v1/fill/w_119,h_154,al_c,q_80,usm_0.66_1.00_0.01/IMG_2704.webp"
+        },
+        {
+            "fname": "Kory",
+            "lname": "Anderson",
+            "class": "Epsilon",
+            "major": "Finance",
+            "picture": "https://static.wixstatic.com/media/158a7d_2ea55764d050495b93c609ca1f293354~mv2.jpg/v1/fill/w_119,h_154,al_c,q_80,usm_0.66_1.00_0.01/IMG_2704.webp"
+        },
+        {
+            "fname": "Zachary",
+            "lname": "Schmitz",
+            "class": "Epsilon",
+            "major": "Electrical & Computer Engineering",
+            "picture": "https://static.wixstatic.com/media/158a7d_2ea55764d050495b93c609ca1f293354~mv2.jpg/v1/fill/w_119,h_154,al_c,q_80,usm_0.66_1.00_0.01/IMG_2704.webp"
+        },
+        {
+            "fname": "Tyler",
+            "lname": "Corbit",
+            "class": "Epsilon",
+            "major": "Journalism",
+            "picture": "https://static.wixstatic.com/media/158a7d_2ea55764d050495b93c609ca1f293354~mv2.jpg/v1/fill/w_119,h_154,al_c,q_80,usm_0.66_1.00_0.01/IMG_2704.webp"
+        },
+        {
+            "fname": "Dominic",
+            "lname": "Perstifilippo",
+            "class": "Epsilon",
+            "major": "Finance",
+            "picture": "https://static.wixstatic.com/media/158a7d_2ea55764d050495b93c609ca1f293354~mv2.jpg/v1/fill/w_119,h_154,al_c,q_80,usm_0.66_1.00_0.01/IMG_2704.webp"
+        },
+        {
+            "fname": "Henry",
+            "lname": "Strosnider",
+            "class": "Epsilon",
+            "major": "Education",
+            "picture": "https://static.wixstatic.com/media/158a7d_2ea55764d050495b93c609ca1f293354~mv2.jpg/v1/fill/w_119,h_154,al_c,q_80,usm_0.66_1.00_0.01/IMG_2704.webp"
+        },
+        {
+            "fname": "Nick",
+            "lname": "Montana",
+            "class": "Epsilon",
+            "major": "Integrated Media",
+            "picture": "https://static.wixstatic.com/media/158a7d_2ea55764d050495b93c609ca1f293354~mv2.jpg/v1/fill/w_119,h_154,al_c,q_80,usm_0.66_1.00_0.01/IMG_2704.webp"
+        },
+        {
+            "fname": "Mark",
+            "lname": "Derrick",
+            "class": "Epsilon",
+            "major": "Business",
+            "picture": "https://static.wixstatic.com/media/158a7d_2ea55764d050495b93c609ca1f293354~mv2.jpg/v1/fill/w_119,h_154,al_c,q_80,usm_0.66_1.00_0.01/IMG_2704.webp"
+        },
+        {
+            "fname": "Adam",
+            "lname": "Kreutzer",
+            "class": "Epsilon",
+            "major": "Business",
+            "picture": "https://static.wixstatic.com/media/158a7d_2ea55764d050495b93c609ca1f293354~mv2.jpg/v1/fill/w_119,h_154,al_c,q_80,usm_0.66_1.00_0.01/IMG_2704.webp"
+        },
+        {
+            "fname": "Logan",
+            "lname": "Cannon",
+            "class": "Epsilon",
+            "major": "Pre-Law",
+            "picture": "https://static.wixstatic.com/media/158a7d_2ea55764d050495b93c609ca1f293354~mv2.jpg/v1/fill/w_119,h_154,al_c,q_80,usm_0.66_1.00_0.01/IMG_2704.webp"
+        },
+        {
+            "fname": "Max",
+            "lname": "Norvell",
+            "class": "Epsilon",
+            "major": "Business",
+            "picture": "https://static.wixstatic.com/media/158a7d_2ea55764d050495b93c609ca1f293354~mv2.jpg/v1/fill/w_119,h_154,al_c,q_80,usm_0.66_1.00_0.01/IMG_2704.webp"
+        },
+        {
+            "fname": "Nick",
+            "lname": "Montana",
+            "class": "Epsilon",
+            "major": "Integrated Media",
+            "picture": "https://static.wixstatic.com/media/158a7d_2ea55764d050495b93c609ca1f293354~mv2.jpg/v1/fill/w_119,h_154,al_c,q_80,usm_0.66_1.00_0.01/IMG_2704.webp"
+        },
+        {
+            "fname": "Nick",
+            "lname": "Montana",
+            "class": "Epsilon",
+            "major": "Integrated Media",
+            "picture": "https://static.wixstatic.com/media/158a7d_2ea55764d050495b93c609ca1f293354~mv2.jpg/v1/fill/w_119,h_154,al_c,q_80,usm_0.66_1.00_0.01/IMG_2704.webp"
+        },
+        {
+            "fname": "Bobby",
+            "lname": "Reed",
+            "class": "Zeta",
+            "major": "Criminology",
             "picture": "https://static.wixstatic.com/media/158a7d_2ea55764d050495b93c609ca1f293354~mv2.jpg/v1/fill/w_119,h_154,al_c,q_80,usm_0.66_1.00_0.01/IMG_2704.webp"
         }
     ]

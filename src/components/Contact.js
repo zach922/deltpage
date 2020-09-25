@@ -1,6 +1,7 @@
 import React from 'react';
 import './stylesheets/Contact.css';
 
+
 const Contact = () => {
 
     const onSubmit = () => {
@@ -33,10 +34,15 @@ const Contact = () => {
                         <div className="column">
                             <h2>Support Us</h2>
                             <div>
-                                <p>If you would like to support our organization to continue in giving back to our community and making men that live lives of excellence our fraternity's Venmo and cashapp accounts are listed here! Any amount donated or any form of support given is always greatly appreciated.</p>
+                                <p>If you would like to support our organization and help us continue our mission; making men of excellence, please consider donating. We accept money donations through our chapter's Venmo and CashApp, which are listed below! Donationd of any type are greatly appreciated. Thank you.</p>
                             </div>
                             <div>
-                                <a href="https://"><i id="socials" className="vimeo icon"/></a> 
+                                <a href="https://"><span className="myicon icon-venmo"></span></a> 
+                                @oudelts
+                            </div>
+                            <div>
+                                <a href="https://"><span className="myicon icon-cashapp"></span></a> 
+                                $oudelts
                             </div>
                         </div>
                 </div>

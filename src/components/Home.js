@@ -17,11 +17,11 @@ const Home = () => {
                 />
                 <ContentBox className="four wide column"
                     photo={ Pic }
-                    content = "Why Delt?"
+                    content = "Our Values"
                 />
                 <ContentBox className="four wide column"
                     photo={ Pic }
-                    content = "Why Delt?"
+                    content = "The Creed"
 
                 />
                 <ContentBox className="four wide column"

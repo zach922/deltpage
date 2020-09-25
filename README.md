@@ -1,8 +1,8 @@
-# This project
+# This Project
 
-This is a project I am making for my fraternity. The current website doesn't look very nice so I decided I was going to remake it using react. Once the webapp is done, I plan on porting it to cloud and supporting it on an EC2 instance using AWS. 
+This is a project I am making for my fraternity. The current website (betadelts.com) doesn't look very nice so I decided I was going to remake it using react. Once the webapp is done, I plan on porting it to cloud and supporting it on an EC2 instance using AWS. 
 
-- 8/31/20
+- 8/31/20: 
 Started
 
 - 9/24/20:

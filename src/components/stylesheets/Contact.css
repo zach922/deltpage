@@ -1,6 +1,29 @@
+@import url('Root.css');
+
 .contact {
     display: flex;
     align-items: center;
     justify-content: center;
-    display: flex;
+    min-height: 81vh;
+    flex-direction: column;
+}
+
+.icon-venmo {
+    mask: url(../photos/venmo.svg);
+}
+
+.icon-cashapp {
+    mask: url(../photos/cashapp.svg);
+}
+
+.myicon {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background: var(--primary-color);
+    mask-size: cover;
+}
+
+.myicon:hover {
+    background: var(--accent-color);
 }
