@@ -26,7 +26,7 @@ const Home = () => {
                 />
                 <ContentBox className="four wide column"
                     photo={ Pic }
-                    content = "Why Delt?"
+                    content = "Brothers"
 
                 />
             </div>

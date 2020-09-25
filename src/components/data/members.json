@@ -1,11 +1,31 @@
 {
+    "Sortables": [
+        {
+            "key":"1",
+            "title":"Class"
+        },
+        {
+            "key":"2",
+            "title":"Field Of Study"
+        },
+        {
+            "key":"3",
+            "title":"Graduation Date"
+        },
+        {
+            "key":"4",
+            "title":"Position"
+        }
+    ],
     "Members": [
         {
             "fname": "Leland",
             "lname": "Sherl",
             "class": "Alpha",
             "major": "MIS & Business Analytics",
-            "picture": "https://static.wixstatic.com/media/158a7d_953486801f764006b990d557f7cf5d6e~mv2.jpg/v1/fill/w_119,h_154,al_c,q_80,usm_0.66_1.00_0.01/IMG_2724.webp"
+            "picture": "https://static.wixstatic.com/media/158a7d_953486801f764006b990d557f7cf5d6e~mv2.jpg/v1/fill/w_119,h_154,al_c,q_80,usm_0.66_1.00_0.01/IMG_2724.webp", 
+            "FieldOfStudy" : "Business",
+            "GraduationDate" : "May 2018"
         },
         {
             "fname": "Ben",
@@ -172,20 +192,6 @@
             "lname": "Norvell",
             "class": "Epsilon",
             "major": "Business",
-            "picture": "https://static.wixstatic.com/media/158a7d_2ea55764d050495b93c609ca1f293354~mv2.jpg/v1/fill/w_119,h_154,al_c,q_80,usm_0.66_1.00_0.01/IMG_2704.webp"
-        },
-        {
-            "fname": "Nick",
-            "lname": "Montana",
-            "class": "Epsilon",
-            "major": "Integrated Media",
-            "picture": "https://static.wixstatic.com/media/158a7d_2ea55764d050495b93c609ca1f293354~mv2.jpg/v1/fill/w_119,h_154,al_c,q_80,usm_0.66_1.00_0.01/IMG_2704.webp"
-        },
-        {
-            "fname": "Nick",
-            "lname": "Montana",
-            "class": "Epsilon",
-            "major": "Integrated Media",
             "picture": "https://static.wixstatic.com/media/158a7d_2ea55764d050495b93c609ca1f293354~mv2.jpg/v1/fill/w_119,h_154,al_c,q_80,usm_0.66_1.00_0.01/IMG_2704.webp"
         },
         {
