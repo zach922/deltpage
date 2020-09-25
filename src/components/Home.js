@@ -11,24 +11,21 @@ const Home = () => {
                 <JumboTron />
             </div>
             <div className="ui grid">
-                <ContentBox className="four wide column"
-                    photo={ Pic }
-                    content = "Why Delt?"
-                />
-                <ContentBox className="four wide column"
-                    photo={ Pic }
-                    content = "Our Values"
-                />
-                <ContentBox className="four wide column"
-                    photo={ Pic }
-                    content = "The Creed"
+                <div className="three column row">
+                    <ContentBox className="column"
+                        photo={ Pic }
+                        content = "Why Delt?"
+                    />
+                    <ContentBox className="column"
+                        photo={ Pic }
+                        content = "Our Values"
+                    />
+                    <ContentBox className="column"
+                        photo={ Pic }
+                        content = "The Creed"
 
                 />
-                <ContentBox className="four wide column"
-                    photo={ Pic }
-                    content = "Brothers"
-
-                />
+                </div>
             </div>
         </div>
     )

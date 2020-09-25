@@ -1,29 +1,21 @@
 import React from 'react';
+import { Select } from 'semantic-ui-react';
+import './stylesheets/Filter.css';
+
 
 const Filter = (props) => {
 
+    const handleChange = (event) => {
+        props.doSort(event.target.textContent)
+    }
+    
     return (
-        <div className="ui grid form">
-            <div className="four wide field">
-                <div className="ui category search">
-                    <div className="ui icon input">
-                    <input className="prompt" type="text" placeholder="Search members..." />
-                    <i className="search icon"></i>
-                    </div>
-                </div>
-                <div className="results"></div>
-            </div>
-            <div className="four wide field">
-                <select>
-                    { 
-                        props.sortables.map((props) =>
-                            <option value={ props.key }>
-                                { props.title }
-                            </option>
-                        )
-                    }
-                </select>
-            </div>
+        <div>
+            <Select 
+                onChange={ handleChange } 
+                placeholder="Sort by..." 
+                options={ props.sortables }
+            />
         </div>
     )
 }

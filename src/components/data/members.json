@@ -2,19 +2,28 @@
     "Sortables": [
         {
             "key":"1",
-            "title":"Class"
+            "value":"Class",
+            "text":"Class"
         },
         {
             "key":"2",
-            "title":"Field Of Study"
+            "value":"Field of Study",
+            "text":"Field of Study"
         },
         {
             "key":"3",
-            "title":"Graduation Date"
+            "value":"Graduation Date",
+            "text":"Graduation Date"
         },
         {
             "key":"4",
-            "title":"Position"
+            "value":"Position",
+            "text":"Position"
+        },
+        {
+            "key":"5",
+            "value":"Name",
+            "text":"Name"
         }
     ],
     "Members": [

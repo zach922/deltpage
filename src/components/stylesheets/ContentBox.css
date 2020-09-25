@@ -1,18 +1,6 @@
 @import url('Root.css');
 
-.medium.ui.image {
-    margin-top: 2rem;
-    transition: opacity .5s;
-}
-
-.medium.ui.image:hover {
-    opacity: .5;
-}
-
-.centered {
-    position: relative;
-    bottom: 6rem;
-    left: 4rem;
-    font-size: 3rem;
-    color: var(--primary-color);
+.ui.large.image {
+    margin: 1rem;
+    float: left;
 }
