@@ -8,6 +8,9 @@ Started
 - 9/24/20:
 Pages are looking better, just need minor changes, correct images, and to finish philanthropy page.
 
+-9/28/20
+The filter is working correctly. Now 
+
 ## Typical React README 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -23,8 +23,7 @@ const Home = () => {
                     <ContentBox className="column"
                         photo={ Pic }
                         content = "The Creed"
-
-                />
+                    />
                 </div>
             </div>
         </div>

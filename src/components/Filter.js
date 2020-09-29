@@ -6,7 +6,7 @@ import './stylesheets/Filter.css';
 const Filter = (props) => {
 
     const handleChange = (event) => {
-        props.doSort(event.target.textContent)
+        props.doSort(event.target.textContent);
     }
     
     return (

@@ -1,0 +1,51 @@
+{
+    "Class" : [
+        
+    ],
+    "Position" : [
+        {
+            "key":"1",
+            "position":"President"
+        },
+        {
+            "key":"2",
+            "position":"Vice President"
+        },
+        {
+            "key":"3",
+            "position":"Treasurer"
+        },
+        {
+            "key":"4",
+            "position":"Directory of Academics"
+        },
+        {
+            "key":"5",
+            "position":"Directory of Communication"
+        },
+        {
+            "key":"6",
+            "position":"Directory of Recruitment"
+        },
+        {
+            "key":"7",
+            "position":"Director of Standards"
+        },
+        {
+            "key":"8",
+            "position":"Risk Manager"
+        },
+        {
+            "key":"9",
+            "position":"Ritual Chair"
+        },
+        {
+            "key":"10",
+            "position":"Member"
+        },
+        {
+            "key":"11",
+            "position":"Alum"
+        }
+    ]
+}

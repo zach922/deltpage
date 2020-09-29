@@ -8,9 +8,7 @@ import './stylesheets/Roster.css';
 
 
 const Roster = () => {
-    const Members = Obj.Members;
-
-    const [mems, setMems] = useState(Members);
+    const [mems, setMems] = useState(Obj.Members);
     const [sort, setSort] = useState("Class");
 
     const doSort = (props) => {
@@ -28,12 +26,45 @@ const Roster = () => {
                 return 0;
             }))
         }else if (props === "Field of Study"){
-            console.log(props)
+            setMems(mems.sort((a, b) => {
+                let fa = a.major.toLowerCase();
+                let fb = b.major.toLowerCase();
+        
+                if (fa < fb) {
+                    return -1;
+                }
+                if (fa > fb) {
+                    return 1;
+                }
+                return 0;
+            }))
         }else if (props === "Graduation Date"){
-            console.log(props)
+            setMems(mems.sort((a, b) => {
+                let fa = new Date(a.graduationDate);
+                let fb = new Date(b.graduationDate);
+        
+                if (fa < fb) {
+                    return -1;
+                }
+                if (fa > fb) {
+                    return 1;
+                }
+                return 0;
+            }))
         }else if (props === "Position"){
-            console.log(props)
-        }else if (props === "Name"){
+            setMems(mems.sort((a, b) => {
+                let fa = a.position.toLowerCase();
+                let fb = b.position.toLowerCase();
+        
+                if (fa < fb) {
+                    return -1;
+                }
+                if (fa > fb) {
+                    return 1;
+                }
+                return 0;
+            }))
+        }else if (props === "First Name"){
             setMems(mems.sort((a, b) => {
                 let fa = a.fname.toLowerCase();
                 let fb = b.fname.toLowerCase();
@@ -46,7 +77,21 @@ const Roster = () => {
                 }
                 return 0;
             }))
-        }else {
+        }else if (props === "Last Name"){
+            setMems(mems.sort((a, b) => {
+                let fa = a.lname.toLowerCase();
+                let fb = b.lname.toLowerCase();
+        
+                if (fa < fb) {
+                    return -1;
+                }
+                if (fa > fb) {
+                    return 1;
+                }
+                return 0;
+            }))            
+        }
+        else {
             console.log(props)
         }
         setSort(props,sort)

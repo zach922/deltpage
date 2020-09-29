@@ -4,6 +4,11 @@ import image from './photos/pic1.jpg';
 const Post = (props) => {
     return (
         <div className="ui container">
+            {/* { if (props.key === "1") {
+
+            } else if (props.key === )
+            } */}
+            
             <h1>{ props.title }</h1>
             <div className="ui grid">
                 <div className="eight wide column">
@@ -13,6 +18,7 @@ const Post = (props) => {
                     <img className="ui large rounded image" src={image} alt="#"/>
                 </div>
             </div>
+
         </div>
     )
 }
