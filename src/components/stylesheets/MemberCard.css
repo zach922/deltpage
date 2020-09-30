@@ -2,12 +2,27 @@
 
 .ui.card > .content {
     background-color: var(--primary-color);
+}
+
+.ui.card, .ui.cards > .card {
+    width: 288px;
+}
+
+.ui.card > .content > .header {
+    color: var(--accent-color);
+}
+
+.ui.card > .content > .meta {
+    color: var(--secondary-color);
+}
+
+.ui.card > .content > .description {
     color: var(--accent-color);
 }
 
 .ui.card > .extra {
     background-color: var(--secondary-color);
-
+    color: var(--accent-color);
 }
 
 

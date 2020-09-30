@@ -7,16 +7,16 @@ const Navbar = () => {
     <nav>
       <div className="ui menu">
         <NavLink exact className="item" to="/">
-          <strong>Home</strong>
-        </NavLink>
-        <NavLink className="item" to="/philanthropy">
-          <strong>Philanthropy</strong>
+          <i className="icon home"></i>
         </NavLink>
         <NavLink className="item" to="/roster">
-          <strong>Roster</strong>
+          <i className="icon user"></i>
+        </NavLink>
+        <NavLink className="item" to="/philanthropy">
+        <i className="icon handshake"></i>
         </NavLink>
         <NavLink className="item" to="/contact">
-          <strong>Contact</strong>
+        <i className="icon mail"></i>
         </NavLink>
         <div className="right menu">
           <div className="item">

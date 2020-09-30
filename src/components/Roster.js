@@ -4,9 +4,6 @@ import Obj from './data/members.json';
 import Filter from './Filter';
 import './stylesheets/Roster.css';
 
-
-
-
 const Roster = () => {
     const [mems, setMems] = useState(Obj.Members);
     const [sort, setSort] = useState("Class");
@@ -25,7 +22,7 @@ const Roster = () => {
                 }
                 return 0;
             }))
-        }else if (props === "Field of Study"){
+        }else if (props === "Major"){
             setMems(mems.sort((a, b) => {
                 let fa = a.major.toLowerCase();
                 let fb = b.major.toLowerCase();
@@ -106,13 +103,15 @@ const Roster = () => {
                 />
                 {  }
             </div>
-            <div className="ui column grid container"> 
-                <div className="two column row">
+            <div className="ui grid"> 
+                <div className="four column row">
                     { 
                         mems.map((props) => 
-                        <MemberCard 
+                        <MemberCard
                             fname={props.fname}
                             lname={props.lname}
+                            gradDate={props.graduationDate}
+                            position={props.position}
                             major={props.major}
                             image={props.image}
                         />)

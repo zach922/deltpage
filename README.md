@@ -8,8 +8,11 @@ Started
 - 9/24/20:
 Pages are looking better, just need minor changes, correct images, and to finish philanthropy page.
 
--9/28/20
-The filter is working correctly. Now 
+- 9/28/20:
+The filter is working correctly.
+
+- 9/29/20:
+The site is mobile friendly for the most part.
 
 ## Typical React README 
 
